@@ -1,0 +1,208 @@
+Initial Table Size : 53
+linear collisions for xylene : 1
+linear collisions for wuhu : 1
+linear collisions for wulfenit : 3
+linear collisions for wulfila : 1
+linear collisions for vixen : 1
+linear collisions for vixenis : 1
+linear collisions for tarrant : 2
+linear collisions for tarrasa : 6
+linear collisions for subcort : 3
+linear collisions for subcor : 17
+linear collisions for zombiism : 1
+linear collisions for yow : 2
+linear collisions for xylene : 3
+linear collisions for wuhsien : 1
+linear collisions for wulfenit : 4
+linear collisions for vixen : 2
+linear collisions for vixenish : 1
+linear collisions for tarrant : 5
+linear collisions for tarrasa : 6
+linear collisions for subcor : 1
+linear collisions for subcort : 11
+linear collisions for subcor : 2
+linear collisions for retinit : 3
+linear collisions for retinol : 18
+linear collisions for retinop : 7
+linear collisions for hives : 1
+linear collisions for ho : 1
+linear collisions for hoactzin : 3
+linear collisions for hoagy : 3
+linear collisions for hoar : 2
+linear collisions for hoard : 1
+linear collisions for hoarded : 1
+linear collisions for hoarder : 1
+linear collisions for hoards : 4
+linear collisions for exequat : 14
+linear collisions for exequies : 8
+linear collisions for exercis : 16
+linear collisions for exercise : 15
+linear collisions for exercise : 16
+linear collisions for exerciser : 1
+linear collisions for anemosc : 1
+linear collisions for wuhsien : 1
+linear collisions for wulfenit : 2
+linear collisions for vixen : 1
+linear collisions for tarrasa : 2
+linear collisions for tarre : 3
+linear collisions for subcor : 1
+linear collisions for retinop : 1
+linear collisions for hives : 4
+linear collisions for hmso : 2
+linear collisions for ho : 1
+linear collisions for hoar : 1
+linear collisions for hoarding : 1
+linear collisions for exequat : 2
+linear collisions for exercis : 3
+linear collisions for exercise : 7
+linear collisions for exercise : 8
+linear collisions for exerciser : 1
+linear collisions for anemosc : 1
+linear collisions for anent : 1
+linear collisions for ingle : 1
+linear collisions for inglori : 5
+linear collisions for marcotte : 1
+linear collisions for marcuse : 4
+linear collisions for neutral : 10
+linear collisions for neutral : 11
+linear collisions for neutret : 8
+linear collisions for neutrino : 7
+linear collisions for oxtongue : 7
+linear collisions for oxyacety : 9
+linear collisions for oxyacid : 19
+linear collisions for oxycepha : 7
+linear collisions for pachyde : 1
+linear collisions for pachyt : 18
+linear collisions for pacific : 1
+linear collisions for pacific : 2
+linear collisions for quacking : 1
+linear collisions for quackish : 1
+linear collisions for quacks : 15
+linear collisions for quad : 2
+linear collisions for quadrag : 1
+linear collisions for herod : 7
+linear collisions for one : 21
+linear collisions for three : 4
+linear collisions for ten : 17
+linear collisions for five : 5
+linear collisions for six : 3
+linear collisions for eight : 6
+linear collisions for nine : 28
+linear collisions for ten : 19
+Final Table Size : 223
+
+Inserting using Quad probing
+Initial Table Size : 53
+quad collisions for xylene : 1
+quad collisions for wuhu : 4
+quad collisions for wulfenit : 1
+quad collisions for wulfila : 1
+quad collisions for vixen : 1
+quad collisions for vixenis : 1
+quad collisions for tarrasa : 2
+quad collisions for subcort : 3
+quad collisions for subcor : 6
+quad collisions for zombiism : 1
+quad collisions for yow : 2
+quad collisions for xylene : 1
+quad collisions for wulfenit : 3
+quad collisions for vixen : 3
+quad collisions for vixenis : 1
+quad collisions for tarrant : 4
+quad collisions for tarrasa : 6
+quad collisions for subcor : 1
+quad collisions for subcor : 8
+quad collisions for retinit : 4
+quad collisions for retinol : 5
+quad collisions for hives : 4
+quad collisions for ho : 1
+quad collisions for hoactzin : 1
+quad collisions for hoagy : 4
+quad collisions for hoar : 1
+quad collisions for hoard : 1
+quad collisions for hoarded : 1
+quad collisions for hoarder : 1
+quad collisions for hoards : 3
+quad collisions for exequat : 5
+quad collisions for exequies : 5
+quad collisions for exercis : 8
+quad collisions for exercise : 5
+quad collisions for exercise : 6
+quad collisions for anemosc : 1
+quad collisions for wuhsien : 1
+quad collisions for wulfenit : 1
+quad collisions for tarrasa : 1
+quad collisions for tarre : 4
+quad collisions for subcor : 1
+quad collisions for retinol : 1
+quad collisions for hives : 3
+quad collisions for hmm : 3
+quad collisions for hmso : 1
+quad collisions for ho : 1
+quad collisions for hoar : 1
+quad collisions for hoarding : 1
+quad collisions for exequat : 6
+quad collisions for exercis : 7
+quad collisions for exercise : 2
+quad collisions for exercise : 3
+quad collisions for exerciser : 1
+quad collisions for anemosc : 1
+quad collisions for anent : 2
+quad collisions for inglori : 3
+quad collisions for marcotte : 1
+quad collisions for marcuse : 1
+quad collisions for neutral : 3
+quad collisions for neutret : 3
+quad collisions for neutrino : 4
+quad collisions for oxtongue : 3
+quad collisions for oxyacety : 4
+quad collisions for oxyacid : 6
+quad collisions for oxycepha : 6
+quad collisions for pachyt : 5
+quad collisions for pacific : 1
+quad collisions for pacific : 3
+quad collisions for quacking : 7
+quad collisions for quackish : 1
+quad collisions for quacks : 5
+quad collisions for quad : 1
+quad collisions for quadrag : 1
+quad collisions for herod : 6
+quad collisions for one : 6
+quad collisions for two : 2
+quad collisions for three : 3
+quad collisions for ten : 6
+quad collisions for five : 8
+quad collisions for six : 5
+quad collisions for eight : 4
+quad collisions for nine : 9
+quad collisions for ten : 7
+Final Table Size: 223
+total number of collisions for linear prob are : 284
+total number of collisions for quad prob are : 155
+
+enter the word to search: the word anent in linear is at index : [80] and number of collisions are 1
+the word anent in quad is at index [86] and number of collisions are 2
+Do you want to continue: Yes[y]/No[n]enter the word to search: the word ten in linear is is at indexes 
+index: 123 with 17 collisions 
+index: 125 with 19 collisions 
+
+the word ten is at indexes 
+index: 127 with 6 collisions 
+index: 132 with 7 collisions 
+
+
+enter the word to search: the word oxyacid in linear is at index : [117] and number of collisions are 19
+the word oxyacid in quad is at index [119] and number of collisions are 6
+Do you want to continue: Yes[y]/No[n]enter the word to search: the word vixen in linear is at index : [108] and number of collisions are 1
+the word vixen in quad is at index [107] and number of collisions are 0
+Do you want to continue: Yes[y]/No[n]enter the word to search: the word exercise in linear is is at indexes 
+index: 218 with 7 collisions 
+index: 219 with 8 collisions 
+
+the word exercise is at indexes 
+index: 0 with 3 collisions 
+index: 218 with 2 collisions 
+
+Do you want to continue: Yes[y]/No[n]enter the word to search: it is not in the hash table of linear probing
+it is not in the hash table of quadratic probing
+Do you want to continue: Yes[y]/No[n]you exit the program.
